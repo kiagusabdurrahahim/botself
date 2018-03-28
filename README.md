@@ -28,14 +28,3 @@ Cara Instal :
 Cara Menjalankan Botnya :
 - cd KoplaxsSelf
 - python KoplaxsSelf.py
-Video Tutorial :
-https://youtu.be/Isqse24n8GA
-
-
-Ada Pertanyaan?
-Add My Line => @hanavy1992
-
-Thanks For :
-- Alfathdirk
-- Farzain
-- Dan Kawan²
