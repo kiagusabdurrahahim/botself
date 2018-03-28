@@ -1,5 +1,3 @@
-# KoplaxsSelfBot
-Koplaxs Self Bot
 Basic Sc By : LINE TCR
 ============================================
 Bot Protect Versi Selfbot 1 Self + 2 Assist
